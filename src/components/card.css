@@ -1,0 +1,42 @@
+.cardButton:hover {
+    color: #5799ef;
+    opacity: 0.08;
+}
+
+.cardButton {
+    background: hsla(0, 0%, 100%, .08);
+    color: #5799ef;
+    border-radius: 6px;
+}
+
+.btn-dark:hover {
+    background: hsla(0, 0%, 100%, .08)
+}
+
+.btn-info {
+    box-shadow: none !important;
+    text-transform: none !important;
+}
+
+.cardBG {
+    background: #1a1a1a !important;
+}
+
+.top-50 {
+    top: 72% !important;
+}
+
+.lineLimit {
+    overflow: hidden;
+    text-overflow: ellipsis;
+    display: -webkit-box;
+    -webkit-line-clamp: 2;
+            line-clamp: 2; 
+    -webkit-box-orient: vertical;
+ }
+ .bg-image{
+    height: 18rem;
+ }
+ .cardBG{
+    height: 28rem;
+ }
